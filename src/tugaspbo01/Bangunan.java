@@ -23,6 +23,7 @@ public class Bangunan {
         System.out.println("tinggi   :"+tinggi);
         System.out.println("Bahan    :"+bahan);
         System.out.println("Lokasi   :"+lokasi);
-        System.out.println("Item :"+item);
+        System.out.println("Item     :"+item);
+        System.out.println();
     }
 }
