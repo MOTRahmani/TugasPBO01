@@ -13,6 +13,7 @@ public class TugasPBO01Aksi {
         Rumah.bahan="Kayu, Semen";
         Rumah.lokasi="Desa";
         Rumah.properti="Tempat Tidur";
-          
+        
+        Rumah.cetakInfo();
     }
 }
