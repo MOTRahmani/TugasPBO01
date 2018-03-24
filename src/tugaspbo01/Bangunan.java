@@ -10,5 +10,17 @@ package tugaspbo01;
  * @author Asus
  */
 public class Bangunan {
+    double lebar;
+    double tinggi;
+    String properti;
+    String bahan;
+    String lokasi;
     
+    void cetakInfo(){
+        System.out.println("Lebar    :"+lebar);
+        System.out.println("tinggi   :"+tinggi);
+        System.out.println("Properti :"+properti);
+        System.out.println("Bahan    :"+bahan);
+        System.out.println("Lokasi   :"+lokasi);
+    }
 }
